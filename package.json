@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-cli",
+  "version": "0.0.4",
+  "description": "A CLI to send a quick message to your WhatsApp contacts.",
+  "main": "src/index.js",
+  "bin": {
+    "whatsapp-cli": "src/index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osaatcioglu/whatsapp-cli.git"
+  },
+  "author": "Ömer Saatcioglu <osaatcioglu@gmail.com> (http://osaatcioglu.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osaatcioglu/whatsapp-cli/issues"
+  },
+  "homepage": "https://github.com/osaatcioglu/whatsapp-cli",
+  "dependencies": {
+    "puppeteer": "^0.11.0"
+  }
+}

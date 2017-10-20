@@ -1,0 +1,4 @@
+node_modules
+.user/
+.vscode/
+**/*.DS_store
