@@ -17,6 +17,14 @@ Personally, it was fun to try something new. :)
 
 # Installation
 
+Please make sure you have v8 installed in your system. 
+
+<pre><code>
+node --version
+</code></pre>
+
+Then, you can install it with npm. 
+
 <pre><code>
 npm install whatsapp-cli -g
 </code></pre>
